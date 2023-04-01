@@ -1,12 +1,13 @@
-### Hi there 👋
+#console.log('Hello!! 👋') 
+
+Hi, mi naes ins Olga Marin, I am a Junior Full Stack JS Developer, my main programming languages/platforms are: Javascript, Typescript, Node.js, React.js, Git, Scrum. 
+
+- 🔭 I’m currently looking a Job like a Junior Developer
+
 
 <!--
-**oluciams/oluciams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Full Sta
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

@@ -1,6 +1,6 @@
 #console.log('Hello!! 👋') 
 
-Hi, mi naes ins Olga Marin, I am a Junior Full Stack JS Developer, my main programming languages/platforms are: Javascript, Typescript, Node.js, React.js, Git, Scrum. 
+Hi, mi name is Olga Marin, I am a Junior Full Stack JS Developer, my main programming languages/platforms are: Javascript, Typescript, Node.js, React.js, Git, Scrum. 
 
 - 🔭 I’m currently looking a Job like a Junior Developer
 
